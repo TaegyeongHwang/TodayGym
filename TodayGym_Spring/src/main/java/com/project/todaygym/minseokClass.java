@@ -1,5 +1,5 @@
 package com.project.todaygym;
 
-public class minseokClass {
-//최민석입니다,
+public class MinseokClass {
+//최민석 test
 }
