@@ -13,6 +13,7 @@
 	href="resources/CSS/member_style.css">
 <body>
 안녕하세요
+테스트입니다.
 	<div class="wrap">
 		<header>
 			<jsp:include page="../layout/header.jsp" />
