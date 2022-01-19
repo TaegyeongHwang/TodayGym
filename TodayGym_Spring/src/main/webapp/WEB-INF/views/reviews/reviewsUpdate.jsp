@@ -25,11 +25,11 @@
 
 					<div class="review_title"
 						style="background-image: url('resources/img/reviews/gray.jpg');">
-						<h1>글수정</h1>
+						<h1>UPDATE</h1>
 					</div>
 					<input type="hidden" name="r_no" value="${rdto.r_no }" />
 					<div class="review_event">
-						<select class="select_cate" name="r_cate">
+						<select class="select_cate" name="r_cate" style="margin-right: 100px;">
 							<option value=${rdto.r_cate }>${rdto.r_cate }</option>
 							<option value="헬스">헬스</option>
 							<option value="수영">수영</option>
