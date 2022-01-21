@@ -56,7 +56,7 @@
 									<div class="info-contents">전화번호 : ${myInfo.m_phone}</div>
 								</div>
 								<div class="user-payment">
-									<div class="payment-title">게좌이체 : 투짐은행</div>
+									<div class="payment-title">계좌이체 : 투짐은행</div>
 									<div class="payment-contents">
 										<button class="btn-payment" onclick="location.href='./directPay'">결제하기</button>
 									</div>
